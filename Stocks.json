@@ -1,0 +1,10 @@
+{"Stock List":
+[
+	{"symbol":"TEA","stockType":"COMMON","lastDividend":0,"fixedDividend":0"parValue":100},
+	{"symbol":"POP","stockType":"COMMON","lastDividend":8,"fixedDividend":0"parValue":100},
+	{"symbol":"ALE","stockType":"COMMON","lastDividend":23,"fixedDividend":0"parValue":60},
+	{"symbol":"GIN","stockType":"PREFERRED","lastDividend":8,"fixedDividend":2"parValue":100},
+	{"symbol":"JOE","stockType":"COMMON","lastDividend":13,"fixedDividend":0"parValue":250}
+]
+}
+
